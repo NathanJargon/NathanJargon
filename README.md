@@ -35,7 +35,7 @@
 # Languages & Tools 👨‍💻 🛠:
 </br>
 <a href="">
-  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+  <img align="left" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
 </a>
 
 
@@ -68,11 +68,11 @@
 </br>
 
 <a href="">
-  <img align="left" width="500" src="https://leetcard.jacoblin.cool/Synochrina?theme=wtf&font=Libre%20Caslon%20Text&ext=activity"/>
+  <img align="left" width="450" src="https://leetcard.jacoblin.cool/Synochrina?theme=wtf&font=Libre%20Caslon%20Text&ext=activity"/>
 </a>
 
 <a href="">
-  <img align="right" width="460" src="https://github.r2v.ch/codewars?user=NathanJargon&stroke=%23BB432C"/>
+  <img align="right" width="350" src="https://github.r2v.ch/codewars?user=NathanJargon&stroke=%23BB432C"/>
 </a>
 
 </br>
@@ -85,7 +85,7 @@
 </br>
 
  <a href=""> 
-   <img align="right" width="460" 
+   <img align="right" width="350" 
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=nathanjargon&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
  </a>
 
