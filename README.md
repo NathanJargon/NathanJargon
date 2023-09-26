@@ -1,7 +1,7 @@
 # Greetings! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/19/79/f6/1979f66a893c470863e654ed28480644.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm an 18 years old game developer.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/D6umGLgBEBwAAAAC/anime.gif">
 
 ### - Learning :
 - ✨ Godot 4
@@ -34,7 +34,13 @@
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
+<a href="">
+  <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+</a>
 
+
+</br>
+</br>
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -54,8 +60,46 @@
 </br>
 </br>
 </br>
+</br>
 
 
+# Stats:
+
+</br>
+
+<a href="">
+  <img align="left" width="500" src="https://leetcard.jacoblin.cool/Synochrina?theme=wtf&font=Libre%20Caslon%20Text&ext=activity"/>
+</a>
+
+<a href="">
+  <img align="right" width="460" src="https://github.r2v.ch/codewars?user=NathanJargon&stroke=%23BB432C"/>
+</a>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+ <a href=""> 
+   <img align="right" width="460" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=nathanjargon&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
+ </a>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Contact Me :
 
@@ -93,9 +137,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Synochrina?theme=wtf&font=Libre%20Caslon%20Text&ext=activity)
-
-![Codewars](https://github.r2v.ch/codewars?user=NathanJargon&stroke=%23BB432C)
