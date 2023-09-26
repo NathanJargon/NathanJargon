@@ -82,13 +82,32 @@
 </br>
 </br>
 </br>
-</br>
 
  <a href=""> 
    <img align="right" width="350" 
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=nathanjargon&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
  </a>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<h3 align="right">CodinGamer</h3>
+<a href=""> 
+ <img align="right" width="350" 
+     src="https://i.ibb.co/gTcj3XR/image-2023-09-26-140558797.png" alt="image-2023-09-26-140558797" /> 
+</a>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
