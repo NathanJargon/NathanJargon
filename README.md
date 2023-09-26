@@ -3,13 +3,21 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/19/79/f6/1979f66a893c470863e654ed28480644.gif">
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nathanjargon.nathanjargon" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=nathanjargon&color=brightgreen" alt="watching_count" />
+</div>
 
-</br>
-</br>
 </br>
 
 
 # About ME 💬 :
+<div align="left">
+  <a href="https://www.codewars.com/users/NathanJargon">
+    <img align="left" src="https://www.codewars.com/users/NathanJargon/badges/small" alt="Codewars Badge" />
+  </a>
+</div>
+</br>
 
 ### - I'm an 18 years old game developer.
 
