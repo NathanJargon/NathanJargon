@@ -97,3 +97,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Synochrina?theme=wtf&font=Libre%20Caslon%20Text&ext=activity)
+
+![Codewars](https://github.r2v.ch/codewars?user=NathanJargon&stroke=%23BB432C)
