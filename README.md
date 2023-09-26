@@ -43,7 +43,7 @@
 # Languages & Tools 👨‍💻 🛠:
 </br>
 <a href="">
-  <img align="left" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihkuno&theme=react&line_height=10&hide=css"/>
+  <img align="left" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanjargon&theme=react&line_height=10&hide=css"/>
 </a>
 
 
