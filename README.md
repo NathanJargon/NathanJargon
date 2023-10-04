@@ -27,14 +27,18 @@
 - ✨ Godot 4
 - ✨ Construct
 - ✨ Phaser 3.0
+- ✨ Ivy/Jax
+- ✨ Flutter
+- ✨ Java
 
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime
-- ✨ Reading Light Novels
+- ✨ Reading Mangas/Light Novels
 - ✨ Chess
+- ✨ Competitive Programming
+- ✨ Game Development
 
-</br>
 </br>
 </br>
 
