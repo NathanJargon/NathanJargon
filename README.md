@@ -109,8 +109,8 @@
 </br>
 
 <a href=""> 
- <img align="right" width="350" 
-     src="https://i.ibb.co/GFSFgyD/image-2023-09-26-164518307.png" alt="image-2023-09-26-164518307" /> 
+ <img align="right" width="500" 
+     src="https://i.ibb.co/CPx0HyK/Certification.jpg"/> 
 </a>
 
 </br>
@@ -123,7 +123,8 @@
 </br>
 </br>
 </br>
-
+</br>
+</br>
 
 # Contact Me :
 
