@@ -7,18 +7,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nathanjargon.nathanjargon" alt="Visitors" />
   <img src="https://komarev.com/ghpvc/?username=nathanjargon&color=brightgreen" alt="watching_count" />
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nathanjargon">
-  <img 
-</div>
-
-</br>
-</br>
-
-<a href="">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nathanjargon&row=1&margin-w=5&margin-h=5"/>
-</a>
-
-</br>
-</br>
+</div>
 
 
 # About ME 💬 :
