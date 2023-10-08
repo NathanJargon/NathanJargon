@@ -109,17 +109,24 @@
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 
 <a href=""> 
- <img align="left" width="450" 
+ <img align="left" width="400" 
      src="https://i.ibb.co/CPx0HyK/Certification.jpg"/> 
 </a>
 
 <a href=""> 
- <img align="right" width="450" 
+ <img align="right" width="400" 
      src="https://i.ibb.co/2y2FBRR/Certification-1.jpg "/> 
 </a>
 
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 </br>
