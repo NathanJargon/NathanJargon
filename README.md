@@ -24,12 +24,12 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/D6umGLgBEBwAAAAC/anime.gif">
 
 ### - Learning :
-- ✨ Godot 4
-- ✨ Construct
-- ✨ Phaser 3.0
-- ✨ Ivy/Jax
-- ✨ Flutter
-- ✨ Java
+- ✨ Godot 4 (GDScript / C#)
+- ✨ Construct (Javascript)
+- ✨ Phaser 3.0 (Javascript)
+- ✨ Ivy/Jax (Python)
+- ✨ Flutter (Dart)
+- ✨ Go (Java is trash)
 
 ### - Hobbies : 
 - ✨ Gaming
