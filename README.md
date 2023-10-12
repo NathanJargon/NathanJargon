@@ -23,7 +23,7 @@
 </br>
 
 <a href="https://shorturl.at/kzQR6">
-  <p style="color: red;">✨ I'm an 18 years old game developer. ✨</p>
+  <p style="color: red;">✨ I'm an 18 years old game developer. ✨ (click for terminal resume) </p>
 </a>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/D6umGLgBEBwAAAAC/anime.gif">
