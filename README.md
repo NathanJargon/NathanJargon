@@ -11,7 +11,11 @@
 </div>
 
 
-# About ME 💬 :
+<a href="https://shorturl.at/kzQR6">
+ <h1 style="color:black;">About ME 💬 :</h1>
+</a>
+
+
 <div align="left">
   <a href="https://www.codewars.com/users/NathanJargon">
     <img align="left" src="https://www.codewars.com/users/NathanJargon/badges/small" alt="Codewars Badge" />
