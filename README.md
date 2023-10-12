@@ -11,9 +11,7 @@
 </div>
 
 
-<a href="https://shorturl.at/kzQR6">
- <h1 style="color:black;">About ME 💬 :</h1>
-</a>
+# About ME 💬 :
 
 
 <div align="left">
@@ -22,8 +20,11 @@
   </a>
 </div>
 </br>
+</br>
 
-### - I'm an 18 years old game developer.
+<a href="https://shorturl.at/kzQR6">
+  <p style="color: red;">✨ I'm an 18 years old game developer. ✨</p>
+</a>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/D6umGLgBEBwAAAAC/anime.gif">
 
