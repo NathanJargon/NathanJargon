@@ -1,7 +1,7 @@
 # Greetings! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/19/79/f6/1979f66a893c470863e654ed28480644.gif">
+<img hight="800" width="800" align="center" src="[https://ibb.co/QrJNy6B](https://ibb.co/QrJNy6B"><img src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png)">
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nathanjargon.nathanjargon" alt="Visitors" />
@@ -28,21 +28,13 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/D6umGLgBEBwAAAAC/anime.gif">
 
-### - Learning :
-- ✨ Godot 4 (GDScript / C#)
-- ✨ Construct (Javascript)
-- ✨ Phaser 3.0 (Javascript)
-- ✨ Ivy/Jax (Python)
-- ✨ Flutter (Dart)
-- ✨ Go (Java is trash)
+### - Your Ordinary Guy :
 
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Reading Mangas/Light Novels
-- ✨ Chess
-- ✨ Competitive Programming
-- ✨ Game Development
+
+<p style="text-align: justify; font-family: 'Oswald', sans-serif;">
+  I'm just a regular person who loves to code. I enjoy turning ideas into working software, fixing bugs, and making things run smoothly. 
+  Whether I'm solving problems, designing interfaces, or collaborating with others, I find joy in the details of programming. It's a journey of continuous learning and turning concepts into real, functional applications.
+</p>
 
 </br>
 </br>
