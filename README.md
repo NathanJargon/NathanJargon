@@ -1,7 +1,7 @@
 # Greetings! 👋
 
 <div align="center">
-<img hight="800" width="800" align="center" src="[https://ibb.co/QrJNy6B](https://ibb.co/QrJNy6B"><img src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png)">
+<img height="600" width="1000" align="center" src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png">
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nathanjargon.nathanjargon" alt="Visitors" />
@@ -28,7 +28,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/D6umGLgBEBwAAAAC/anime.gif">
 
-### - Your Ordinary Guy :
+### Your Ordinary Guy:
 
 
 <p style="text-align: justify; font-family: 'Oswald', sans-serif;">
@@ -36,6 +36,15 @@
   Whether I'm solving problems, designing interfaces, or collaborating with others, I find joy in the details of programming. It's a journey of continuous learning and turning concepts into real, functional applications.
 </p>
 
+- Computer Science student.
+- Trying to achieve 100 projects/games.
+- Currently unemployed due to stacked CV projects.
+
+
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
