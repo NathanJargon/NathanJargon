@@ -1,7 +1,7 @@
 # Greetings! 👋
 
 <div align="center">
-<img height="600" width="1000" align="center" src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png">
+<img height="500" width="1000" align="center" src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png">
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nathanjargon.nathanjargon" alt="Visitors" />
@@ -38,10 +38,9 @@
 
 - Computer Science student.
 - Trying to achieve 100 projects/games.
-- Currently unemployed due to stacked CV projects.
+- Currently invested on my stacked CV projects.
 
 
-</br>
 </br>
 </br>
 </br>
