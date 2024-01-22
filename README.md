@@ -1,156 +1,34 @@
-# Greetings! 👋
+<div align="center">
+<img align="center" src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png">
+</div>
+</br>
 
 <div align="center">
-<img height="500" width="1000" align="center" src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png">
-</div>
-<div align="center">
+  <img src="https://www.codewars.com/users/NathanJargon/badges/small" alt="Codewars Badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nathanjargon.nathanjargon" alt="Visitors" />
-  <!--<img src="https://komarev.com/ghpvc/?username=nathanjargon&color=brightgreen" alt="watching_count" /> -->
+  <img src="https://komarev.com/ghpvc/?username=nathanjargon&color=brightgreen" alt="watching_count" /> 
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nathanjargon">
+</div>
+
+</br>
+<div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nathanjargon&row=1&margin-w=5&margin-h=5"/>
 </div>
 
-
-# About ME 💬 :
-
-
-<div align="left">
-  <a href="https://www.codewars.com/users/NathanJargon">
-    <img align="left" src="https://www.codewars.com/users/NathanJargon/badges/small" alt="Codewars Badge" />
-  </a>
-</div>
 </br>
 </br>
 
-<a href="https://shorturl.at/kzQR6">
-  <p style="color: red;">✨ I'm an 18 years old game developer. ✨ (click for kewl terminal resume) </p>
+<a href="">
+  <img align="right" width="450" src="https://leetcard.jacoblin.cool/Synochrina?theme=wtf&font=Libre%20Caslon%20Text&ext=activity"/>
 </a>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/D6umGLgBEBwAAAAC/anime.gif">
-
-### Your Ordinary Guy:
-
-
-<p style="text-align: justify; font-family: 'Oswald', sans-serif;">
+<p align="left">
   I'm just a regular person who loves to code. I enjoy turning ideas into working software, fixing bugs, and making things run smoothly. 
-  Whether I'm solving problems, designing interfaces, or collaborating with others, I find joy in the details of programming. It's a journey of continuous learning and turning concepts into real, functional applications.
+  Whether I'm solving problems, designing interfaces, or collaborating with others, I find joy in the details of programming. 
+  It's a journey of continuous learning and turning concepts into real, functional applications.
 </p>
 
-- Computer Science student.
-- Trying to achieve 100 projects/games.
-- Currently invested on my stacked CV projects.
+# Milestone ()
+- 100 Projects/Games (currently at 50+)
+- Release a game on STEAM
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-<a href="">
-  <img align="left" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanjargon&theme=react&line_height=10&hide=css"/>
-</a>
-
-
-</br>
-</br>
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
-</br>
-
-
-# Stats:
-
-</br>
-
-<a href="">
-  <img align="left" width="450" src="https://leetcard.jacoblin.cool/Synochrina?theme=wtf&font=Libre%20Caslon%20Text&ext=activity"/>
-</a>
-
-<a href="">
-  <img align="right" width="350" src="https://github.r2v.ch/codewars?user=NathanJargon&stroke=%23BB432C"/>
-</a>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
- <a href=""> 
-   <img align="right" width="350" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=nathanjargon&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=21" /> 
- </a>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-# Contact Me :
-
-<p>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:bondoc.nash123@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/nashbondoc/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/Synochrina01">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561199055105889/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
