@@ -28,7 +28,8 @@
   It's a journey of continuous learning and turning concepts into real, functional applications.
 </p>
 
-# Milestone ()
+# setMilestone()
 - 100 Projects/Games (currently at 50+)
+- 100 Course Certificate (currently at 80+)
 - Release a game on STEAM
 
