@@ -31,5 +31,6 @@
 # setMilestone()
 - 100 Projects/Games (currently at 50+)
 - 100 Course Certificate (currently at 80+)
+- 1000+ Contributions
 - Release a game on STEAM
 
