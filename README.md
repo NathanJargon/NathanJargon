@@ -68,7 +68,7 @@
 </a>
 
 <p align="left">
-  I'm just a regular person who loves to code. I enjoy turning ideas into working software, fixing bugs, and making things run smoothly. 
+  I'm a experienced developer who loves to code. I enjoy turning ideas into working software, fixing bugs, and making things run smoothly. 
   Whether I'm solving problems, designing interfaces, or collaborating with others, I find joy in the details of programming. 
   It's a journey of continuous learning and turning concepts into real, functional applications.
 </p>
@@ -76,6 +76,7 @@
 # setMilestone()
 - 100 Projects/Games (currently at 50+)
 - 100 Course Certificate (currently at 80+)
-- 1000+ Contributions
+- 1000+ Contributions (almost)
+- 10+ Achievements (currently at 5)
 - Release a game on STEAM
 
