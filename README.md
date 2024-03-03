@@ -72,8 +72,6 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/2048px-Photopea_logo.svg.png" alt="unity" width="40" height="40"/>
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="unity" width="100" height="40"/>
          <img src="https://brandslogos.com/wp-content/uploads/images/large/bitbucket-logo-1.png" alt="unity" width="40" height="40"/>
-
-      </p>
   </div>
     
 </br>
