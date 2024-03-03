@@ -58,6 +58,21 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
               width="48" />&nbsp;&nbsp;&nbsp
+         <img src="https://abrudz.github.io/logos/TypeScript.svg" alt="unity" width="45" height="45"/>
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" target="_blank" rel="noreferrer" width="45" height="45"/>
+         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/>
+         <img src="https://pbs.twimg.com/profile_images/1693946094206476288/tR7JnC69_400x400.png" alt="unity" width="65" height="65"/>
+         <img src="https://abrudz.github.io/logos/CSharp.svg" alt="unity" width="45" height="45"/>
+         <img src="https://abrudz.github.io/logos/Go.svg" alt="unity" width="45" height="45"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="unity" width="45" height="45"/>
+         <img src="https://i.ibb.co/jgkb4vj/image-removebg-preview.png" alt="unity" width="45" height="45"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="unity" width="45" height="45"/>
+         <img src="https://www.renpy.org/static/index-logo.png" alt="unity" width="60" height="80"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="unity" width="60" height="80"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/2048px-Photopea_logo.svg.png" alt="unity" width="40" height="40"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="unity" width="100" height="40"/>
+         <img src="https://brandslogos.com/wp-content/uploads/images/large/bitbucket-logo-1.png" alt="unity" width="40" height="40"/>
+
       </p>
   </div>
     
