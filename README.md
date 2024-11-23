@@ -87,9 +87,8 @@
 </p>
 
 # setMilestone()
-- 100 Projects/Games (currently at 50+)
-- ~100 Course Certificate~
-- ~1000+ Contributions~
-- ~10+ Achievements (currently at 5)~
-- Release a game on STEAM
+- [x] 100 Projects/Games Created
+- [x] 100 Course Certificate Earned
+- [x] 1000+ Contributions Made
+- [x] 10+ Achievements Given
 
