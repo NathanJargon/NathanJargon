@@ -13,20 +13,20 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/Synochrina0" target="_blank"><img alt="Twitter"
-            src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/nashbondoc/" target="_blank"><img alt="LinkedIn"
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:bondoc.nash123@gmail.com" target="_blank"><img alt="Gmail"
-            src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-    <a href="https://medium.com/@nashandrewbondoc50" target="_blank"><img alt="Medium"
-            src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="https://google.com"><img alt="Dribbble"
-            src="https://img.shields.io/badge/dribble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
-    <a href="https://google.com"><img alt="Telegram"
-            src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nashbondoc/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:bondoc.nash123@gmail.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
+    <a href="https://www.tiktok.com/@motsudoesva" target="_blank">
+        <img alt="TikTok" src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
+    </a>
+    <a href="https://bsky.app/profile/nathanjargon.bsky.social" target="_blank">
+        <img alt="Bluesky" src="https://img.shields.io/badge/bluesky-%231A73E8.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
+    </a>
 </div>
-  
+
 </br>
 <div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nathanjargon&row=1&margin-w=5&margin-h=5"/>
@@ -69,8 +69,8 @@
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="unity" width="45" height="45"/>
          <img src="https://i.ibb.co/jgkb4vj/image-removebg-preview.png" alt="unity" width="45" height="45"/>
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="unity" width="45" height="45"/>
-         <img src="https://www.renpy.org/static/index-logo.png" alt="unity" width="60" height="80"/>
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="unity" width="60" height="80"/>
+         <img src="https://www.renpy.org/static/index-logo.png" alt="unity" width="30" height="auto"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="unity" width="30" height="auto"/>
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/2048px-Photopea_logo.svg.png" alt="unity" width="40" height="40"/>
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="unity" width="100" height="40"/>
          <img src="https://brandslogos.com/wp-content/uploads/images/large/bitbucket-logo-1.png" alt="unity" width="40" height="40"/>
