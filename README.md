@@ -1,7 +1,9 @@
-<div align="center">
-<img align="center" src="https://i.ibb.co/bz6Bcrh/Screenshot-2024-01-18-182752.png">
+<div align="center" style="display: flex; justify-content: center; gap: 100px;">
+  <img src="https://i.ibb.co/N3MDNpR/472786203-608931458165833-2222756289530141518-n.jpg" width="300" height="auto">
+  <img src="https://i.ibb.co/yQYqRS1/472444229-1104196588101261-8454576368026732045-n.jpg" width="300" height="auto">
 </div>
 </br>
+
 
 <div align="center">
   <img src="https://www.codewars.com/users/NathanJargon/badges/small" alt="Codewars Badge" />
