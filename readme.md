@@ -2,18 +2,6 @@
   <img src="https://leetcard.jacoblin.cool/Synochrina?theme=dark&font=Montserrat" alt="LeetCode Stats">
 </div>
 
-<div align="center">
-  <img src="https://www.codewars.com/users/NathanJargon/badges/small" alt="Codewars Badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nathanjargon.nathanjargon" alt="Visitors" />
-  <img src="https://komarev.com/ghpvc/?username=nathanjargon&color=brightgreen" alt="watching_count" /> 
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nathanjargon">
-</div>
-
-</br>
-<div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nathanjargon&row=1&margin-w=5&margin-h=5"/>
-</div>
-
   <div>
       <h2>🧰 Languages and Tools</h2>
       <p align="center">
