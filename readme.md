@@ -5,6 +5,7 @@
   <br>
   <samp>
     👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙽𝚊𝚜𝚑.<br>
+    - Credits to zmcx (vice) -  
   </samp>
 </p>
 
