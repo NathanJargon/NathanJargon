@@ -20,7 +20,7 @@ Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-
 Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.nash123@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:bondoc.nash123@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/NashBondoc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nashbondoc/)
 
 <div align="center">
-  <a href="https://github.com/israelhp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanjargon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanjargon&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=NathanJargon&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanJargon&layout=compact&theme=dark"/>
 </div>
+
