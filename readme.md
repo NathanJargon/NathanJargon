@@ -1,7 +1,10 @@
+<div align="center">
+    <img width=300 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2o0a2cwejMyamhlNTBnbmhkMHJuaGhqd3ZwazNmZHN1cnZvcHhyayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wIUQQ07BHzDry/giphy.gif"/>    
+</div>
+
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/08/50/30/01/360_F_850300178_2R0d9z8EiG6hN8Yj5QaBEYJAEVFflJly.jpg?semt=ais_hybrid&w=740&q=80" width="600" alt="Anime Space Character">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square" alt="Profile Views">
+  <img src="http://img.shields.io/badge/Code%20Time-286%20hrs%2053%20mins-blue?style=flat"/>
   <br>
   <samp>
     👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙽𝚊𝚜𝚑.<br>
@@ -22,5 +25,17 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=NathanJargon&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanJargon&layout=compact&theme=dark"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=NathanJargon&theme=dark&mode=weekly"/>
 </div>
 
+<br/>
+
+<div align="center">
+    <td colspan="2" align="center">
+      <details open><summary>Compact display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
+      <details><summary>Detailed display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+</div>
+
+<br/>
