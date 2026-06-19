@@ -31,11 +31,9 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
 <br/>
 
 <div align="center">
-    <td colspan="2" align="center">
-      <details open><summary>Compact display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
-      <details><summary>Detailed display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
+  <a href="https://github.com/NathanJargon?tab=achievements">
+    <img src="https://raw.githubusercontent.com/NathanJargon/NathanJargon/main/metrics.plugin.achievements.svg" alt="Achievements">
+  </a>
 </div>
 
 <br/>
