@@ -29,9 +29,8 @@ Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-
 Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.nash123@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:bondoc.nash123@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nashbondoc/) [![Linkedin Badge](https://img.shields.io/badge/Portfolio-purple?style=flat&logo=Linkedin&logoColor=white)](https://nash-andrew.vercel.app)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=NathanJargon&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanJargon&layout=compact&theme=dark"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=NathanJargon&theme=dark&mode=weekly"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanJargon&layout=compact&theme=dark"/>
 </div>
 
 <div><img src="assets/danjin-dualmonitor.png"/></div>
