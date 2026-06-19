@@ -32,7 +32,7 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
 
 <div align="center">
   <a href="https://github.com/NathanJargon?tab=achievements">
-    <img src="https://raw.githubusercontent.com/NathanJargon/NathanJargon/main/metrics.plugin.achievements.svg" alt="Achievements">
+    <img src="https://raw.githubusercontent.com/NathanJargon/NathanJargon/main/github-metrics.svg" alt="GitHub Metrics">
   </a>
 </div>
 
