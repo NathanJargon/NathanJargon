@@ -8,9 +8,15 @@
   <br>
   <samp>
     👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙽𝚊𝚜𝚑.<br>
-    - Credits to zmcx (vice) -  
   </samp>
 </p>
+
+<div align="center">
+  <a href="https://github.com/NathanJargon?tab=achievements">
+    <img src="https://raw.githubusercontent.com/NathanJargon/NathanJargon/main/github-metrics.svg" alt="GitHub Metrics">
+  </a>
+</div>
+<br/>
 
 Property                 | Data  
 -------------------------|------
@@ -27,13 +33,3 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanJargon&layout=compact&theme=dark"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=NathanJargon&theme=dark&mode=weekly"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/NathanJargon?tab=achievements">
-    <img src="https://raw.githubusercontent.com/NathanJargon/NathanJargon/main/github-metrics.svg" alt="GitHub Metrics">
-  </a>
-</div>
-
-<br/>
