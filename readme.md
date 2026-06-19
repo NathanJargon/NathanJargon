@@ -7,7 +7,7 @@
   <img src="http://img.shields.io/badge/Code%20Time-286%20hrs%2053%20mins-blue?style=flat"/>
   <br>
   <samp>
-    👋 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙽𝚊𝚜𝚑.<br>
+
   </samp>
 </p>
 
