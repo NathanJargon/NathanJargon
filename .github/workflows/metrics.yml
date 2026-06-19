@@ -17,9 +17,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, activity, community, repositories
+          # Keep only basic profile info
+          base: header, activity, community
 
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          # ❌ Remove achievements completely
+          plugin_achievements: no
 
           filename: github-metrics.svg
