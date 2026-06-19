@@ -33,3 +33,5 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanJargon&layout=compact&theme=dark"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=NathanJargon&theme=dark&mode=weekly"/>
 </div>
+
+<div><img src="assets/danjin-dualmonitor.png"/></div>
