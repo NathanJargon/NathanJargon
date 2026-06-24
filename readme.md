@@ -34,3 +34,4 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
 </div>
 
 <div><img src="assets/danjin-dualmonitor.png"/></div>
+<div><img src="assets/cidkagenou.png"/></div>
