@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=800 src="assets/danjin-dualmonitor.png"/>
+    <img width=780 src="assets/danjin-dualmonitor.png"/>
 </div>
 
 <p align="center">
@@ -33,5 +33,5 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
 </div>
 
 <div align="center">
-    <img width=800 src="assets/cidkagenou.png"/>
+    <img width=780 src="assets/cidkagenou.png"/>
 </div>
