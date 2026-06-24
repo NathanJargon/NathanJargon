@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/Code%20Time-286%20hrs%2053%20mins-blue?style=flat"/>
+  <img src="http://img.shields.io/badge/Code%20Time-8351%20hrs%2053%20mins-blue?style=flat"/>
   <br>
   <samp>
 
