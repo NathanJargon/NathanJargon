@@ -1,9 +1,8 @@
 <div align="center">
-    <img width=300 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2o0a2cwejMyamhlNTBnbmhkMHJuaGhqd3ZwazNmZHN1cnZvcHhyayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wIUQQ07BHzDry/giphy.gif"/>    
+    <img width=800 src="assets/danjin-dualmonitor.png"/>
 </div>
 
 <p align="center">
-  <br>
   <img src="http://img.shields.io/badge/Code%20Time-286%20hrs%2053%20mins-blue?style=flat"/>
   <br>
   <samp>
@@ -33,5 +32,6 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NathanJargon&layout=compact&theme=dark"/>
 </div>
 
-<div><img src="assets/danjin-dualmonitor.png"/></div>
-<div><img src="assets/cidkagenou.png"/></div>
+<div align="center">
+    <img width=800 src="assets/cidkagenou.png"/>
+</div>
