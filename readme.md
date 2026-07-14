@@ -36,7 +36,8 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/bondoc.n
     <img width=400em src="assets/MMOTSUxSYN.png"/>
     <img width=400em src="assets/MMOTSUMIKU.png"/>
     <img width=400em src="assets/MOTSUUP.png"/>
+    <img width=400em src="assets/MOTSURYO.png"/>
 </div>
 
-<p align="center"><i><b>—MMOTSUxSYN 「」 MMOTSUMIKU 「」 MOTSUUP—<i/><b/></p>
+<p align="center"><i><b>—MMOTSUxSYN 「」 MMOTSUMIKU 「」 MOTSUUP 「」 MOTSURYO—<i/><b/></p>
 
