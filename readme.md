@@ -1,5 +1,6 @@
 <div align="center">
     <img width=780 src="assets/danjin-dualmonitor.png"/>
+    <p><small>The man who gets beat down isn't the <ins>loser</ins>. <br> The guy who can't <ins>tough it out to the end</ins>, he's the one who loses.</small></p>
 </div>
 
 <p align="center">
